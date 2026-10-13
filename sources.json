@@ -1,0 +1,26 @@
+{
+  "name": "LibreTV 点播源（已验证）",
+  "version": 2,
+  "sources": [
+    {
+      "name": "百度采集",
+      "url": "https://api.apibdzy.com/api.php/provide/vod"
+    },
+    {
+      "name": "量子采集",
+      "url": "https://cj.lziapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "非凡采集",
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "暴风采集",
+      "url": "https://bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "索尼采集",
+      "url": "https://suoniapi.com/api.php/provide/vod"
+    }
+  ]
+}
